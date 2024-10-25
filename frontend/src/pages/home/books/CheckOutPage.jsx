@@ -67,7 +67,7 @@ function CheckOutPage() {
                                             <input
                                                 {...register("email", { required: true })}
                                                 type="text" name="email" id="email" className="h-10 border mt-1 rounded px-4 w-full bg-gray-50"
-                                                //disabled
+                                                //disabled afdsds
                                                 defaultValue={currentUser?.email}
                                                 placeholder="email@domain.com" />
                                         </div>
